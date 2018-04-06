@@ -1,4 +1,5 @@
 opam-version: "1.2"
+version: "1.0.0"
 maintainer: "yoriyuki.y@gmail.com"
 authors: ["Yoriyuki Yamagata"]
 homepage: "https://github.com/yoriyuki/Camomile/wiki"
